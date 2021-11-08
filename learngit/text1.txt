@@ -1,2 +1,2 @@
-git is a good too,
+git is a good tool,
 it is a version control tool.
