@@ -3,4 +3,8 @@ it is a version control tool.
 i like it！
 Git is a distributed version control system
 Git tracks changes of files.
-create a new branch! agaeen!
+<<<<<<< HEAD
+create a new branch! again!
+=======
+create a new branch! again!
+>>>>>>> featurel
